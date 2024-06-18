@@ -16,7 +16,7 @@ By integrating NST into cybersecurity data science, we can develop more robust a
 
 ### Phishing Detection
 - **Visual Content Analysis:** Phishing attacks often involve spoofed websites that mimic legitimate ones. NST can help analyze and detect visual similarities or discrepancies between legitimate and phishing websites based on their styles. By identifying inconsistencies in visual elements (like logos, layouts, and color schemes), NST can contribute to more effective phishing detection algorithms.
-- **Phishing Detection Example:** Visual representation of a suspicious phishing website with altered styles to highlight discrepancies.
+- **Phishing Detection Example:** Visual representation of a legitimate website credit card form as well as suspicious phishing website with altered styles to highlight discrepancies.
   ![nefarious_website_clong](img/website_style_change.png)
 
 ### Forensic Analysis
