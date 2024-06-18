@@ -1,7 +1,9 @@
 # Enhancing Phishing Detection with Neural Style Transfer
 
 ## Introduction
-Neural Style Transfer (NST) is a deep learning technique that merges the content of one image with the style of another. Initially popularized for creating artistic images, NST has practical applications beyond art, particularly in the field of cybersecurity. This document outlines the importance of NST in cybersecurity and in cybersecurity data science, and describes the accomplishments achieved in this project.
+Neural Style Transfer (NST) is a deep learning technique that merges the content of one image with the style of another. Initially popularized for creating artistic images, NST has practical applications beyond art. This document outlines the importance of NST in cybersecurity and in cybersecurity data science, and describes the accomplishments achieved in this project.
+
+## Executive Summary
 
 - **Neural Style Transfer:** An algorithm that generates artistic images by merging the content of one image with the style of another.
 - **Pretrained ConvNet:** Uses hidden layer activations from a pretrained ConvNet to compute content and style cost functions.
@@ -46,4 +48,6 @@ By integrating NST into cybersecurity data science, we can develop more robust a
 - **Style Cost Function:** Defined the style cost function using the Gram matrix of the activations of multiple hidden layers in a ConvNet.
 
 ## Conclusion
-Neural Style Transfer enhances cybersecurity practices by leveraging its ability to manipulate and analyze visual content. It provides tools for both defending against threats through obfuscation and detection techniques and conducting detailed forensic examinations of digital imagery. These applications highlight NST's versatility beyond its original artistic purposes, demonstrating its potential impact in enhancing digital security measures.
+Neural Style Transfer enhances cybersecurity practices by leveraging its ability to manipulate and analyze visual content. It provides tools for both defending against threats through obfuscation and detection techniques and in conducting detailed forensic examinations of digital imagery. These applications highlight NST's versatility beyond its original artistic purposes, demonstrating its potential impact in enhancing digital security measures.
+
+
