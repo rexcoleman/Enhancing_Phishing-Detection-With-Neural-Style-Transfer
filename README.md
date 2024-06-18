@@ -11,7 +11,7 @@ Neural Style Transfer (NST) is a technique in deep learning that allows us to me
 ### Phishing Detection:
 - **Visual Content Analysis:** Phishing attacks often involve spoofed websites that mimic legitimate ones. NST can help analyze and detect visual similarities or discrepancies between the legitimate and phishing websites based on their styles. By identifying inconsistencies in visual elements (like logos, layouts, and color schemes), NST can contribute to more effective phishing detection algorithms.
 
-![nefarious_website_clong](website_style_change.png)
+![nefarious_website_clong](img/website_style_change.png)
 
 ### Forensic Analysis:
 - **Image Authentication:** In forensic investigations, NST can assist in verifying the authenticity of images by analyzing their style consistency with known sources. It helps in identifying forged or altered images by comparing their styles with genuine reference images or databases.
