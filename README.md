@@ -3,6 +3,13 @@
 ## Introduction
 Neural Style Transfer (NST) is a deep learning technique that merges the content of one image with the style of another. Initially popularized for creating artistic images, NST has practical applications beyond art, particularly in the field of cybersecurity. This document outlines the importance of NST in cybersecurity and in cybersecurity data science, and describes the accomplishments achieved in this project.
 
+- **Neural Style Transfer:** An algorithm that generates artistic images by merging the content of one image with the style of another.
+- **Pretrained ConvNet:** Uses hidden layer activations from a pretrained ConvNet to compute content and style cost functions.
+- **Optimization:** Optimizes the total cost function to synthesize new images, updating pixel values instead of model parameters.
+- **Cybersecurity Applications:** Enhances phishing detection, image authentication, forensic analysis, and advanced obfuscation techniques, showcasing its practical relevance in cybersecurity.
+
+By integrating NST into cybersecurity data science, we can develop more robust and versatile models that improve the detection, analysis, and prevention of cyber threats.
+
 ## Why Neural Style Transfer is Important to Cybersecurity
 
 ### Phishing Detection
@@ -40,11 +47,3 @@ Neural Style Transfer (NST) is a deep learning technique that merges the content
 
 ## Conclusion
 Neural Style Transfer enhances cybersecurity practices by leveraging its ability to manipulate and analyze visual content. It provides tools for both defending against threats through obfuscation and detection techniques and conducting detailed forensic examinations of digital imagery. These applications highlight NST's versatility beyond its original artistic purposes, demonstrating its potential impact in enhancing digital security measures.
-
-### What You Should Remember
-- **Neural Style Transfer:** An algorithm that generates artistic images by merging the content of one image with the style of another.
-- **Pretrained ConvNet:** Uses hidden layer activations from a pretrained ConvNet to compute content and style cost functions.
-- **Optimization:** Optimizes the total cost function to synthesize new images, updating pixel values instead of model parameters.
-- **Cybersecurity Applications:** Enhances phishing detection, image authentication, forensic analysis, and advanced obfuscation techniques, showcasing its practical relevance in cybersecurity.
-
-By integrating NST into cybersecurity data science, we can develop more robust and versatile models that improve the detection, analysis, and prevention of cyber threats.
