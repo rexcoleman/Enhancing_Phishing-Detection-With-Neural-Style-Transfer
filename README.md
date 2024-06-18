@@ -6,6 +6,8 @@ Neural Style Transfer (NST) is a technique in deep learning that allows us to me
 - **Camouflage and Stealth Techniques:** NST can be used to blend sensitive information or patterns into innocuous images. By applying the style of a benign image to a sensitive one, NST makes it harder for unauthorized users or algorithms to detect the hidden content.
 - **Steganography:** NST can embed messages or data into images by transferring the style of one image (containing the message) onto another (a seemingly harmless image). This technique allows for covert communication and data hiding within visual content.
 
+![surf_art](img/teahupoo_basquiet_1.png)
+
 ### Phishing Detection:
 - **Visual Content Analysis:** Phishing attacks often involve spoofed websites that mimic legitimate ones. NST can help analyze and detect visual similarities or discrepancies between the legitimate and phishing websites based on their styles. By identifying inconsistencies in visual elements (like logos, layouts, and color schemes), NST can contribute to more effective phishing detection algorithms.
 
