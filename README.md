@@ -4,16 +4,21 @@
 Neural Style Transfer (NST) is a deep learning technique that merges the content of one image with the style of another. Initially popularized for creating artistic images, NST has practical applications beyond art, particularly in the field of cybersecurity. This document outlines the importance of NST in cybersecurity and in cybersecurity data science, and describes the accomplishments achieved in this project.
 
 ## Why Neural Style Transfer is Important to Cybersecurity
-### Advanced Obfuscation Techniques
-- **Camouflage and Stealth Techniques:** NST can blend sensitive information or patterns into innocuous images. By applying the style of a benign image to a sensitive one, NST makes it harder for unauthorized users or algorithms to detect hidden content.
-- **Steganography:** NST can embed messages or data into images by transferring the style of one image (containing the message) onto another (a seemingly harmless image). This technique allows for covert communication and data hiding within visual content.
 
 ### Phishing Detection
 - **Visual Content Analysis:** Phishing attacks often involve spoofed websites that mimic legitimate ones. NST can help analyze and detect visual similarities or discrepancies between legitimate and phishing websites based on their styles. By identifying inconsistencies in visual elements (like logos, layouts, and color schemes), NST can contribute to more effective phishing detection algorithms.
+- **Phishing Detection Example:** Visual representation of a phishing website with altered styles to highlight discrepancies.
+  ![nefarious_website_clong](img/website_style_change.png)
 
 ### Forensic Analysis
 - **Image Authentication:** In forensic investigations, NST can assist in verifying the authenticity of images by analyzing their style consistency with known sources. It helps in identifying forged or altered images by comparing their styles with genuine reference images or databases.
 - **Visual Pattern Recognition:** NST can aid in pattern recognition tasks related to forensic analysis, such as identifying recurring visual elements across crime scene photos or surveillance footage.
+
+### Advanced Obfuscation Techniques
+- **Camouflage and Stealth Techniques:** NST can blend sensitive information or patterns into innocuous images. By applying the style of a benign image to a sensitive one, NST makes it harder for unauthorized users or algorithms to detect hidden content.
+- **Steganography:** NST can embed messages or data into images by transferring the style of one image (containing the message) onto another (a seemingly harmless image). This technique allows for covert communication and data hiding within visual content.
+  - **Artistic Image Example:** Artistic transformation of a surfing image using the style of a Basquiat painting.
+  ![surf_art](img/teahupoo_basquiet_1.png)
 
 ## Why Neural Style Transfer is Important to Cybersecurity Data Science
 ### Enhancing Data Analysis
@@ -39,10 +44,8 @@ Neural Style Transfer (NST) is a deep learning technique that merges the content
 - **Steganography and Data Hiding:** Demonstrated advanced obfuscation techniques by embedding hidden messages in images through style transfer.
 
 ### Example Outputs
-- **Phishing Detection Example:** Visual representation of a phishing website with altered styles to highlight discrepancies.
-  ![nefarious_website_clong](img/website_style_change.png)
-- **Artistic Image Example:** Artistic transformation of a surfing image using the style of a Basquiat painting.
-  ![surf_art](img/teahupoo_basquiet_1.png)
+
+
 
 ## Conclusion
 Neural Style Transfer enhances cybersecurity practices by leveraging its ability to manipulate and analyze visual content. It provides tools for both defending against threats through obfuscation and detection techniques and conducting detailed forensic examinations of digital imagery. These applications highlight NST's versatility beyond its original artistic purposes, demonstrating its potential impact in enhancing digital security measures.
