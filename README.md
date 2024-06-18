@@ -38,15 +38,6 @@ Neural Style Transfer (NST) is a deep learning technique that merges the content
 - **Content Cost Function:** Defined the content cost function using the activations of a hidden layer in a pretrained convolutional neural network (ConvNet).
 - **Style Cost Function:** Defined the style cost function using the Gram matrix of the activations of multiple hidden layers in a ConvNet.
 
-### Practical Applications
-- **Phishing Detection:** Applied NST to detect phishing websites by comparing their visual style with legitimate websites, identifying inconsistencies in visual elements.
-- **Image Authentication and Forensic Analysis:** Used NST for image authentication by analyzing style consistency, helping identify forged or altered images in forensic investigations.
-- **Steganography and Data Hiding:** Demonstrated advanced obfuscation techniques by embedding hidden messages in images through style transfer.
-
-### Example Outputs
-
-
-
 ## Conclusion
 Neural Style Transfer enhances cybersecurity practices by leveraging its ability to manipulate and analyze visual content. It provides tools for both defending against threats through obfuscation and detection techniques and conducting detailed forensic examinations of digital imagery. These applications highlight NST's versatility beyond its original artistic purposes, demonstrating its potential impact in enhancing digital security measures.
 
