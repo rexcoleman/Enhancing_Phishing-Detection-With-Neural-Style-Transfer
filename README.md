@@ -1,4 +1,4 @@
-# Visual-Content-Analysis-Enhancing_Phishing-Detection-With-Neural-Style-Transfer
+# Enhancing_Phishing-Detection-With-Neural-Style-Transfer
 
 Neural Style Transfer (NST) is a technique in deep learning that allows us to merge the content of one image with the style of another. While its initial applications were in generating artistic images, NST has proven to have practical applications beyond art, especially in cybersecurity contexts. Here's how NST can be applied in advanced obfuscation techniques, phishing detection, and forensic analysis:
 
