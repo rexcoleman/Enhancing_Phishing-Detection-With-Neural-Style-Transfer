@@ -9,6 +9,14 @@
 
 By integrating NST into cybersecurity data science, we can develop more robust and versatile models that improve the detection, analysis, and prevention of cyber threats.
 
+![nefarious_website_clong](img/website_style_change.png)
+
+*Figure 1: Detecting Phishing Websites with Neural Style Transfer - This image shows an exagerated visual representation of a legitimate website credit card form being altered by a hactivist meme and the resulting suspicious phishing website. The cybersecurity goal in this context is to identify phishing websites pretending to be legitimate websites but with subtly different style.*
+
+![surf_art](img/teahupoo_basquiet_1.png)
+
+*Figure 2: Surf Art Stenography - This image shows an exagerated visual representaqtion of a cybercriminal concealing sensitive infromation (Basquiat Painting) inside a surf image. The cybersecurity goal in this context would be to identify sensitive information such as malware or encryption keys that a threat actor subtly hid within the image to avoid detection*
+
 ## Table of Contents
 1. [Introduction](#1-introduction)
    - [1.1 Definition of Bias in Cybersecurity](#11-definition-of-bias-in-cybersecurity)
@@ -40,8 +48,6 @@ Neural Style Transfer (NST) is a deep learning technique that merges the content
 
 ### 2.1 Impact on Threat Detection
 - **Visual Content Analysis:** Phishing attacks often involve spoofed websites that mimic legitimate ones. NST can help analyze and detect visual similarities or discrepancies between legitimate and phishing websites based on their styles. By identifying inconsistencies in visual elements (like logos, layouts, and color schemes), NST can contribute to more effective phishing detection algorithms.
-- **Phishing Detection Example:** Visual representation of a legitimate website credit card form as well as suspicious phishing website with altered styles to highlight discrepancies.
-  ![nefarious_website_clong](img/website_style_change.png)
 
 ### 2.2 Resource Allocation and Efficiency
 - **Forensic Analysis:** In forensic investigations, NST can assist in verifying the authenticity of images by analyzing their style consistency with known sources. It helps in identifying forged or altered images by comparing their styles with genuine reference images or databases.
@@ -50,9 +56,7 @@ Neural Style Transfer (NST) is a deep learning technique that merges the content
 ### 2.3 User Trust and Organizational Reputation
 - **Advanced Obfuscation Techniques:** NST can blend sensitive information or patterns into innocuous images. By applying the style of a benign image to a sensitive one, NST makes it harder for unauthorized users or algorithms to detect hidden content.
 - **Steganography:** NST can embed messages or data into images by transferring the style of one image (containing the message) onto another (a seemingly harmless image). This technique allows for covert communication and data hiding within visual content.
-  - **Artistic Image Example:** Artistic transformation of a surfing image using the style of a Basquiat painting.
-  ![surf_art](img/teahupoo_basquiet_1.png)
-
+  
 ## 3. Why Neural Style Transfer is Important to Cybersecurity Data Science
 
 ### 3.1 Role of Data Scientists in Cybersecurity
