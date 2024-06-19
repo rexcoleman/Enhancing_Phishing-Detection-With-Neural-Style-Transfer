@@ -88,3 +88,17 @@ Neural Style Transfer enhances cybersecurity practices by leveraging its ability
 ### 5.3 Call to Action for Data Scientists and Cybersecurity Professionals
 
 ## 6. References
+
+- **Academic Papers and Articles**:
+  - [Leon A. Gatys, Alexander S. Ecker, Matthias Bethge, (2015). A Neural Algorithm of Artistic Style](https://arxiv.org/abs/1508.06576)
+  - [Harish Narayanan, Convolutional neural networks for artistic style transfer.](https://harishnarayanan.org/writing/artistic-style-transfer/)
+  - [Log0, TensorFlow Implementation of "A Neural Algorithm of Artistic Style".](https://www.chioka.in/tensorflow-implementation-neural-algorithm-of-artistic-style)
+  - [Karen Simonyan and Andrew Zisserman (2015). Very deep convolutional networks for large-scale image recognition
+MatConvNet.
+](https://arxiv.org/pdf/1409.1556)
+- **Courses**:
+  - [Ng, A., Katanforoosh, K., & Mourri, Y. (n.d.). Convolutional Neural Networks. DeepLearning.AI, Coursera.](https://www.coursera.org/learn/convolutional-neural-networks)
+
+
+
+
