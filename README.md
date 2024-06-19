@@ -15,7 +15,7 @@ By integrating NST into cybersecurity data science, we can develop more robust a
 
 ![surf_art](img/teahupoo_basquiet_1.png)
 
-*Figure 2: Surf Art Stenography - This image shows an exagerated visual representaqtion of a cybercriminal concealing sensitive infromation (Basquiat Painting) inside a surf image. The cybersecurity goal in this context would be to identify sensitive information such as malware or encryption keys that a threat actor subtly hid within the image to avoid detection*
+*Figure 2: Surf Art Stenography - This image shows an exagerated visual representaqtion of a cybercriminal concealing sensitive infromation (Basquiat Painting) inside a surf image. The cybersecurity goal in this context would be to identify sensitive information such as malware or encryption keys that a threat actor subtly hid within the image to avoid detection.*
 
 ## Table of Contents
 1. [Introduction](#1-introduction)
